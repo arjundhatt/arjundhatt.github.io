@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Arjun Dhatt's website
 
-You can use the [editor on GitHub](https://github.com/arjundhatt/arjundhatt.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+On this website, I will upload resources that I found useful as a student studying statistics.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![497_10_1-scaled-1](https://user-images.githubusercontent.com/71524389/113047849-d4a65500-916f-11eb-82a8-415d10098e3d.jpg)
 
 ### Markdown
 
