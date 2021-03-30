@@ -1,14 +1,12 @@
 ## About me 
 
-My name is Arjun and I am a student at the University of Toronto studying statistics. Throughout my time at the University of Toronto, I have taken many interesting statistics courses related to topics such as probability, data analysis, sampling and much more. Statistics is a field that I always found interesting due to it's importance in many different subjects; in particular, I find it's application in insurance to be most interesting. I am currently using my statistics knowledge to work towards becoming an actuary. 
+My name is Arjun and I am a student at the University of Toronto studying statistics. Throughout my time at the University of Toronto, I have taken many interesting statistics courses related to topics such as probability, data analysis, sampling and much more. Statistics is a field that I find interesting due to it's relevance in many different subjects; in particular, I find it's application in insurance to be most interesting.
 
+Here is a picture of Paul McCartney with a ram:
 
-Here is a picture of Paul McCartney with a ram: 
 ![497_10_1-scaled-1](https://user-images.githubusercontent.com/71524389/113047849-d4a65500-916f-11eb-82a8-415d10098e3d.jpg)
 
-
-
-### Markdown
+### Relevant courses 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
