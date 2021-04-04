@@ -6,7 +6,7 @@ Here is a picture of Paul McCartney with a ram:
 
 ![497_10_1-scaled-1](https://user-images.githubusercontent.com/71524389/113047849-d4a65500-916f-11eb-82a8-415d10098e3d.jpg)
 
-### Relevant courses 
+## Relevant courses 
 
 During my third year studying statistics at the University of Toronto, I took many interesting courses that allowed me to further develop my statistics knowledge. Below, I will include a list of statistics courses I took and the concepts that I learned while taking them:
 
@@ -26,7 +26,7 @@ Learned about how degrees of freedom can affect the interprability of our result
 
 Took a more theoretical approach to the topic of probability by taking an in-depth look on topics such as random variables, independence, expectation and variance. Also learned about various types of convergence and stochastic processes.  
 
-### CV 
+## CV 
 
 Below I will include a digital CV: 
 
@@ -61,6 +61,21 @@ University of Toronto Statistical Science Union Events Director
 
 
 ## R resources I find useful 
+
+Below, I will include some R resources I found useful when learning R for the first time: 
+
+#### general
+
+When learning R for the first time, learning how to create variables, vectors, loops, etc. is very useful. The following cheatsheet is very helpful with getting familiar with how to perform those actions: https://www.rstudio.com/wp-content/uploads/2016/10/r-cheat-sheet-3.pdf
+
+#### ggplot2 
+
+ggplot2 is a package that assists in visualizing data and I use it almost everytime I open R, so I always found this cheatsheet very helpful: https://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf
+
+#### dplyr
+
+dplyr is a package that assists in wrangling data, so I find the following cheatsheet to be very helpful: https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf
+
 
 ```markdown
 Syntax highlighted code block
