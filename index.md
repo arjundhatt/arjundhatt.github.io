@@ -8,7 +8,26 @@ Here is a picture of Paul McCartney with a ram:
 
 ### Relevant courses 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+During my third year studying statistics at the University of Toronto, I took many interesting courses that allowed me to further develop my statistics knowledge. Below, I will include a list of statistics courses I took and the concepts that I learned while taking them:
+
+##### STA302- Methods of Data Analysis 
+
+Learned about data analysis with a large emphasis on linear regression. Learned how to make inferences from the parameters of a linear regression — using lm() function in R — and how to interpret confidence and prediction intervals. 
+
+##### STA304- Surveys, Sampling & Observational Data
+
+Learned how to effectively design surveys and interpret results from large surveys. Also learned how to make inferences from sampled data and how to deal with bias and missing data. 
+
+##### STA314- Statistical Methods for Machine Learning 
+
+Learned about how degrees of freedom can affect the interprability of our results and it's relation with test error, training error, and cross validation. Also learned about various methods for both supervised and unsupervised data such as k-means clustering, nearest neighbours, principal components analysis and many more.
+
+##### STA347- Probability 
+
+Took a more theoretical approach to the topic of probability by taking an in-depth look on topics such as random variables, independence, expectation and variance. Also learned about various types of convergence and stochastic processes.  
+
+
+
 
 ```markdown
 Syntax highlighted code block
