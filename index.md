@@ -33,11 +33,13 @@ Below I will include a digital CV:
 #### Actuarial Exams 
 
 Exam FM- Passed August 2018
+
 Exam P- Passed July 2019 
 
 #### Education 
 
 University of Toronto 
+
 Bachelor of Science- Statistics Specialist & Cinema Studies Minor
 
 #### Work Experience 
@@ -45,6 +47,7 @@ Bachelor of Science- Statistics Specialist & Cinema Studies Minor
 University of Toronto Statistical Sciences Peer Mentor
 
 • Met with a group of approximately 10 first year students to help them get involved in the school community and within the Statistical Sciences community to help students easily transition to university life
+
 • Provided support to first year students by helping them navigate activities and events on campus, and also promoted activities and events that would help the students learn and succeed at the university
 
 #### Extracurricular Experience 
@@ -52,9 +55,12 @@ University of Toronto Statistical Sciences Peer Mentor
 University of Toronto Statistical Science Union Events Director
 
 • Responsible for planning and executing social and career related events for undergraduate students in the Statistics and Actuarial Science programs to provide knowledge and a sense of community for students
+
 • Conduct surveys after events to get an understanding of what aspects of the events can be improved on and also to find what students are most interested in order to provide meaningful updates
 
 
+
+## R resources I find useful 
 
 ```markdown
 Syntax highlighted code block
