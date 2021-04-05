@@ -60,7 +60,7 @@ University of Toronto Statistical Science Union Events Director
 
 
 
-## R resources I find useful 
+## R resources I find useful when starting out 
 
 Below, I will include some R resources I found useful when learning R for the first time: 
 
@@ -76,31 +76,8 @@ ggplot2 is a package that assists in visualizing data and I use it almost everyt
 
 dplyr is a package that assists in wrangling data, so I find the following cheatsheet to be very helpful: https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf
 
+## Contact Information 
 
-```markdown
-Syntax highlighted code block
+If you have any questions about my Github page, please reach out to arjundhatt13@gmail.com. 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/arjundhatt/arjundhatt.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Thank you 
