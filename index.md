@@ -1,8 +1,8 @@
-## About me 
+## About Me 
 
 My name is Arjun and I am a student at the University of Toronto studying statistics. Throughout my time at the University of Toronto, I have taken many interesting statistics courses related to topics such as probability, data analysis, sampling and much more. Statistics is a field that I find interesting due to it's relevance in many different subjects; in particular, I find it's application in insurance to be most interesting.
 
-## Relevant courses 
+## Relevant Courses 
 
 During my third year studying statistics at the University of Toronto, I took many interesting courses that allowed me to further develop my statistics knowledge. Below, I will include a list of statistics courses I took and the concepts that I learned while taking them:
 
@@ -56,7 +56,7 @@ University of Toronto Statistical Science Union Events Director
 
 
 
-## R resources I find useful when starting out 
+## R resources I found useful when starting out 
 
 Below, I will include some R resources I found useful when learning R for the first time: 
 
