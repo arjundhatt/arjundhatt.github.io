@@ -2,10 +2,6 @@
 
 My name is Arjun and I am a student at the University of Toronto studying statistics. Throughout my time at the University of Toronto, I have taken many interesting statistics courses related to topics such as probability, data analysis, sampling and much more. Statistics is a field that I find interesting due to it's relevance in many different subjects; in particular, I find it's application in insurance to be most interesting.
 
-Here is a picture of Paul McCartney with a ram:
-
-![497_10_1-scaled-1](https://user-images.githubusercontent.com/71524389/113047849-d4a65500-916f-11eb-82a8-415d10098e3d.jpg)
-
 ## Relevant courses 
 
 During my third year studying statistics at the University of Toronto, I took many interesting courses that allowed me to further develop my statistics knowledge. Below, I will include a list of statistics courses I took and the concepts that I learned while taking them:
